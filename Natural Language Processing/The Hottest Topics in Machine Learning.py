@@ -141,7 +141,7 @@ warnings.simplefilter("ignore", DeprecationWarning)
 from sklearn.decomposition import LatentDirichletAllocation as LDA
  
 # Helper function
-def print_topics(model, count_vectorizer, n_top_words):
+Ndef print_topics(model, count_vectorizer, n_top_words):
     words = count_vectorizer.get_feature_names()
     for topic_idx, topic in enumerate(model.components_):
         print("\nTopic #%d:" % topic_idx)
