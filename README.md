@@ -1,6 +1,8 @@
 
 # Machine Learning
 
+<img src="https://github.com/niheon/machine-learning/blob/main/Machine%20Learning.jpg" alt="Machine Learning" width="500" height="600">
+
 ## Description
 
 This repository contains various machine learning (ML) projects, spanning various industries, subfields of ML and methods. The goal is to showcase the wide application of ML, which is increasingly becoming mainstream, considering its inherent reactive nature to create models from data and use the models to gain insight, automate repetitive tasks and solve real world problems. 
