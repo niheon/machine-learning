@@ -7,21 +7,26 @@ This repository contains various machine learning (ML) projects, spanning variou
 
 ## Table of Content
 
-<a href="https://github.com/niheon/machine-learning/tree/main/AI%20for%20Medicine">AI for Medicine</a>
-<a href="https://github.com/niheon/machine-learning/tree/main/Classification">Classification</a>
-<a href="https://github.com/niheon/machine-learning/tree/main/Computer%20Vision">Computer Vision</a>
-<a href="https://github.com/niheon/machine-learning/tree/main/Federated%20Learning%20for%20COVID-19%20Diagnosis">Federated Learning for COVID-19 Diagnosis</a>
-<a href="https://github.com/niheon/machine-learning/tree/main/Natural%20Language%20Processing">Natural Language Processing</a>
-<a href="https://github.com/niheon/machine-learning/tree/main/Regression">Regression</a>
-<a href="https://github.com/niheon/machine-learning/tree/main/Time%20Series%20Forecasting">Time Series Forecasting</a>
+<p><a href="https://github.com/niheon/machine-learning/tree/main/AI%20for%20Medicine">AI for Medicine</a></p>
+<p><a href="https://github.com/niheon/machine-learning/tree/main/Classification">Classification</a></p>
+<p><a href="https://github.com/niheon/machine-learning/tree/main/Computer%20Vision">Computer Vision</a></p>
+<p><a href="https://github.com/niheon/machine-learning/tree/main/Federated%20Learning%20for%20COVID-19%20Diagnosis">Federated Learning for COVID-19 Diagnosis</a></p>
+<p><a href="https://github.com/niheon/machine-learning/tree/main/Natural%20Language%20Processing">Natural Language Processing</a></p>
+<p><a href="https://github.com/niheon/machine-learning/tree/main/Regression">Regression</a></p>
+<p><a href="https://github.com/niheon/machine-learning/tree/main/Time%20Series%20Forecasting">Time Series Forecasting</a></p>
 
 ## Built with
 
 The projects are built with python in jupyter notebook, including various libraries/frameworks such as:
 
-#Scikit-learn
-#Pandas
-#Numpy
-#Pytorch
-#Keras
-#Matplotlib
+<p><a href="https://scikit-learn.org/stable">Scikit-learn</a></p>
+<p><a href="https://pandas.pydata.org/">Pandas</a></p>
+<p><a href="https://numpy.org/">Numpy</a></p>
+<p><a href="https://matplotlib.org/">Matplotlib</a></p>
+<p><a href="https://keras.io/">Keras</a></p>
+
+## Contact
+
+Profile: https://github.com/niheon
+Website: https://niheon.com/
+ 
