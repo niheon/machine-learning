@@ -1,7 +1,7 @@
 
 # Machine Learning
 
-<img src="https://github.com/niheon/machine-learning/blob/main/Machine%20Learning.jpg" alt="Machine Learning" width="500" height="600">
+<img src="https://github.com/niheon/machine-learning/blob/main/Machine%20Learning.jpg" alt="Machine Learning">
 
 ## Description
 
