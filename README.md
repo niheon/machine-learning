@@ -7,7 +7,11 @@
 
 This repository contains various machine learning (ML) projects, spanning various industries, subfields of ML and methods. The goal is to showcase the wide application of ML, which is increasingly becoming mainstream, considering its inherent reactive nature to create models from data and use the models to gain insight, automate repetitive tasks and solve real world problems. 
 
-## Table of Content
+## How to use 
+
+As already mentioned, this repository contains machine learning projects in various fields. The folders contain subfolders and/or projects/parts of a project. Browse through the folders according to your interest or curiosity. 
+
+## Table of Contents
 
 <p><a href="https://github.com/niheon/machine-learning/tree/main/AI%20for%20Medicine">AI for Medicine</a></p>
 <p><a href="https://github.com/niheon/machine-learning/tree/main/Classification">Classification</a></p>
@@ -26,6 +30,10 @@ The projects are built with python in jupyter notebook, including various librar
 <p><a href="https://numpy.org/">Numpy</a></p>
 <p><a href="https://matplotlib.org/">Matplotlib</a></p>
 <p><a href="https://keras.io/">Keras</a></p>
+
+## License
+
+[MIT License](https://github.com/niheon/machine-learning/blob/main/LICENSE)
 
 ## Contact
 
