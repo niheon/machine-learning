@@ -38,5 +38,4 @@ The projects are built with python in jupyter notebook, including various librar
 ## Contact
 
 Profile: https://github.com/niheon
-Website: https://niheon.com/
  
