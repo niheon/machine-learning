@@ -1,6 +1,6 @@
 # AI for Medical Diagnosis
 
-<img src="https://www.ge.com/news/sites/default/files/Reports/2020-03/lungs.gif" alt="Chest X-ray Medical Diagnosis">
+<img src="https://www.ge.com/news/sites/default/files/Reports/2020-03/GIF.gif" alt="Chest X-ray Medical Diagnosis">
 
 
 
