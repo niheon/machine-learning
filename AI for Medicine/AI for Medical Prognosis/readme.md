@@ -25,7 +25,7 @@ In this project, risk models are built using tree based models like Decision Tre
 
 The following steps are followed in this project
 - Dealing with Missing Data
-  *- Complete Case Analysis
+  - Complete Case Analysis
   - Imputation
 - Decision Trees
   - Evaluation
