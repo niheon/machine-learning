@@ -9,3 +9,5 @@
 <img src="https://github.com/rajeshai/machine-learning/blob/main/AI%20for%20Medicine/AI%20for%20Medical%20Diagnosis/chestxray.png" alt="Chest X-ray Medical Diagnosis">
 
 The goal is to diagnose diseases from chest X-rays using a deep learning model. This project employs a DenseNet-121 model that has been pre-trained to identify 14 labels, including Cardiomegaly, Mass, and Pneumothorax. GradCAM is used to show and highlight where the model is looking and which area of interest is used to create the forecast.
+
+Chest x-ray pictures from the public [ChestX-ray8](https://arxiv.org/abs/1705.02315) collection are used in this project. There are 108,948 frontal-view X-ray pictures in this dataset, representing 32,717 different patients. Multiple text-mined labels identify 14 different disease states in each image in the data set. A subset of 1000 photos is used for this project.
