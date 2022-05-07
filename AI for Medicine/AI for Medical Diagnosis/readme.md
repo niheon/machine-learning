@@ -16,10 +16,13 @@ Chest x-ray pictures from the public [ChestX-ray8](https://arxiv.org/abs/1705.02
 
 <img src="https://github.com/rajeshai/machine-learning/blob/main/AI%20for%20Medicine/AI%20for%20Medical%20Diagnosis/braintumor.jpg" alt="Brain Tumor Segmentation">
 
-The goal of the project is to build a neural network to automatically segment tumor regions in brain, using MRI (Magnetic Resonance Imaging) scans. This project employs a 3D U-net model. This architecture will take advantage of the volumetric shape of MR images and is one of the best performing models for this task. Feel free to familiarize yourself with the architecture by reading [this paper](https://arxiv.org/abs/1606.06650)
+The goal of the project is to build a neural network to automatically segment tumor regions in the brain, using MRI (Magnetic Resonance Imaging) scans. This project employs a 3D U-net model. This architecture will take advantage of the volumetric shape of MR images and is one of the best-performing models for this task. Feel free to familiarize yourself with the architecture by reading [this paper](https://arxiv.org/abs/1606.06650)
 
-The dataset used in this project is from the [Decathlon 10 Challenge](https://decathlon-10.grand-challenge.org/). This data has been mostly pre-processed for the competition participants, however in real practice, MRI data needs to be significantly pre-preprocessed before we can use it to train our models and have access to total of 484 images for training.
+The dataset used in this project is from the [Decathlon 10 Challenge](https://decathlon-10.grand-challenge.org/). This data has been mostly pre-processed for the competition participants, however, in real practice, MRI data needs to be significantly pre-preprocessed before we can use it to train our models and have access to a total of 484 images for training.
 
+## Evaluation of Diagnostic Models
+
+The goal of the project is to evaluate the diagnostic models we built, more specifically working with the results of the X-ray classification model we built previously. Different metrics like True Positives, False Positives, True Negatives, False Negatives, Accuracy, Prevalence, etc., are discussed and evaluated.
 
 
 
