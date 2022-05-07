@@ -2,10 +2,7 @@
 
 <img src="https://www.ge.com/news/sites/default/files/Reports/2020-03/GIF.gif" alt="Chest X-ray Medical Diagnosis">
 
-
-
-
-
+Diagnosis is the process of determining which sickness or condition explains a person's symptoms and indicators. When the term diagnostic is used, the medical context is frequently inferred. The medical history and physical examination of the patient are frequently used to acquire the information essential for diagnosis. One or more diagnostic procedures, such as medical tests, are frequently conducted during the process.
 
 ## Table of Contents
 
