@@ -39,3 +39,13 @@ In this project Python is used to build some of the statistical models to analyz
 - Censored Data
 - Kaplan-Meier Estimates
 - Subgroup Analysis
+
+## Cox Proportional Hazards and Random Survival
+
+In this project risk models are developed using survival data and a combination of linear and non-linear techniques. A dataset with survival data of patients with Primary Biliary Cirrhosis (pbc) is used. PBC is a progressive disease of the liver caused by a buildup of bile within the liver (cholestasis) that results in damage to the small bile ducts that drain bile from the liver. The main objective is to understand the effects of different factors on the survival times of the patients. 
+
+The following key concepts are also discussed:
+- Cox Proportional Hazards
+  - Data Preprocessing for Cox Models.
+- Random Survival Forests
+  - Permutation Methods for Interpretation.
