@@ -1,3 +1,12 @@
+# AI for Medical Diagnosis
+
+<img src="https://www.ge.com/news/sites/default/files/Reports/2020-03/lungs.gif" alt="Chest X-ray Medical Diagnosis">
+
+
+
+
+
+
 ## Table of Contents
 
 - [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/rajeshai/machine-learning/blob/main/AI%20for%20Medicine/AI%20for%20Medical%20Diagnosis/Part%201%20-%20Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb)
