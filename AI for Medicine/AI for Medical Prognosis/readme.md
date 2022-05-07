@@ -32,3 +32,10 @@ The following steps are followed in this project
   - Regularization
 - Random Forests
   - Hyperparameter Tuning
+
+## Survival Estimates that Vary with Time
+
+In this project Python is used to build some of the statistical models to analyze surivival estimates for a dataset of lymphoma patients. Model evaluation and interpretation of their outputs is also done. The following key concepts are also discussed 
+- Censored Data
+- Kaplan-Meier Estimates
+- Subgroup Analysis
